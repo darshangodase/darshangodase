@@ -33,4 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshangodase&" alt="darshangodase" /></p>
 
-<img src="https://raw.githubusercontent.com/darshangodase/darshangodase/output/snake.svg" alt="Snake animation" />
