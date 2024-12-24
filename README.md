@@ -12,7 +12,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <!-- GIF Image -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🔭 I’m currently working on **Anonymous project**
 
@@ -25,18 +25,22 @@
 - ⚡ Fun fact: **Nothing**
 
 ---
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/darshangodase" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<h3 align="center">🌟 Connect with Me 🌟</h3>
+<p align="center">
+  <a href="[https://your-website.com](https://darshangodase.netlify.app/)" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
-  <a href="https://instagram.com/darshan10_12" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://linkedin.com/in/darshangodase" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.leetcode.com/darshan_godase" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://instagram.com/darshan10_12" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://github.com/darshangodase">
+    <img src="https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:darshangodase10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
 
@@ -48,7 +52,7 @@
   </a>
 </p>
 
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
