@@ -25,7 +25,7 @@
 - ⚡ Fun fact: **Nothing**
 
 ---
-<h3 align="center">🌟 Connect with Me 🌟</h3>
+### 🌟 Connect with Me 🌟
 <p align="center">
   <a href="[https://your-website.com](https://darshangodase.netlify.app/)" target="_blank">
   <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome" alt="Website">
@@ -49,7 +49,7 @@
 </p>
 
 ---
-## 🏆GitHub Trophies
+### 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=darshangodase&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
@@ -119,6 +119,23 @@
     <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshangodase&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshangodase&theme=radical&hide_border=false" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshangodase&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</p>
+
 
 ---
 ### ✍️Random Dev Quote
