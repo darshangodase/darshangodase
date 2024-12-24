@@ -5,7 +5,7 @@
   Hi 👋, I'm Darshan Godase
   <br>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Open%20Source%20Contributor;Problem%20Solver&font=Fira%20Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Problem%20Solver&font=Fira%20Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22" alt="Typing SVG">
   </a>
 </h1>
 
@@ -25,12 +25,7 @@
 - ⚡ Fun fact: **Nothing**
 
 ---
-<h3 align="center">🏆 GitHub Profile Trophy</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=darshangodase&theme=darkhub&margin-w=15&margin-h=15&column=6" alt="Trophy">
-  </a>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,6 +41,13 @@
 </p>
 
 ---
+<h3 align="center">🏆 GitHub Profile Trophy</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=darshangodase&theme=darkhub&margin-w=15&margin-h=15&column=6" alt="Trophy">
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
