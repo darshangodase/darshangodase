@@ -27,7 +27,7 @@
 ---
 ### 🌟 Connect with Me 🌟
 <p align="center">
-  <a href="[https://your-website.com](https://darshangodase.netlify.app/)" target="_blank">
+  <a href="https://darshangodase.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
   <a href="https://linkedin.com/in/darshangodase" target="_blank">
