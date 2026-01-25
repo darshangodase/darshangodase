@@ -2,8 +2,6 @@
 
 **Software developer focused on building things that are simple, useful, and reliable.**
 
-<img src="https://komarev.com/ghpvc/?username=darshangodase&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
 ---
 
 ### 🧰 Tech & Skills
@@ -36,3 +34,6 @@ Also familiar with: C / C++ / Java, Data Structures & Algorithms, OOP, DBMS, Lin
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-34D399?style=flat&logo=google-chrome&logoColor=white)](https://darshangodase.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshangodase)
 
+---
+
+<img src="https://komarev.com/ghpvc/?username=darshangodase&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
